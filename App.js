@@ -97,6 +97,7 @@ const styles = StyleSheet.create({
     childText: {
         fontSize: 24,
         textAlign: 'center',
+
     },
     input: {
         borderWidth: 1,
